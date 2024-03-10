@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Data.SqlClient;
 
-
+// Types of method to show data in view
 namespace RegistrationPage.Controllers
 {
     public class HomeController : Controller
